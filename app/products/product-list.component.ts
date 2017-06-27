@@ -9,7 +9,7 @@ export class ProductListComponent{
 	pageTitle: string ='Product List'
 	products:any[] = [ 
 		{
-		 "productid":2,
+		 "productid":3,
 	  	 "code":316551,
 	  	 "Available":10,
 	  	 "price":30

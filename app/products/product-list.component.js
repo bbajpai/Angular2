@@ -12,7 +12,7 @@ var ProductListComponent = (function () {
         this.pageTitle = 'Product List';
         this.products = [
             {
-                "productid": 2,
+                "productid": 3,
                 "code": 316551,
                 "Available": 10,
                 "price": 30
