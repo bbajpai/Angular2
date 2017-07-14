@@ -34,12 +34,5 @@
     "typings": "^1.5.0",
     "zone.js": "^0.6.26"
   },
-  "devDependencies": {
-    "concurrently": "^2.2.0",
-    "lite-server": "^2.2.0",
-    "tslint": "^3.7.4",
-    "typescript": "^2.0.2",
-    "typings": "^1.0.4"
-  },
   "repository": {}
 }
